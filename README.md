@@ -23,12 +23,16 @@ Not quite sure how Wiki will be used since we already use GitBook for documentat
 
 ## Where to find
 
+### Committees
+Each committee will have its own repo on GitHub and contain their own archive of meeting minutes, documentation (of roles and responsibilities), and projects to track their initiatives. 
+
+
 ### Meeting minutes
 
-Meeting minutes will be housed in the `Code` section. Each committee has its own directory. Meeting minutes are organized by year. 
+Meeting minutes will be housed in the `Code` section. Meeting minutes are organized by year. 
 
 ```
-committee-name/  <-- top-level refers to the committee (board, governance, scholarship, etc)
+meetings/  <-- top-level refers to the committee 
   /yyyy/  <-- level 2 directories are years
     yyyy-mm-dd-minutes.md  <-- meeting agendas and minutes
 ```
