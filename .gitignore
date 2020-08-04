@@ -1,2 +1,5 @@
 
 .DS_Store
+.obsidian/cache
+.obsidian/config
+.obsidian/workspace
