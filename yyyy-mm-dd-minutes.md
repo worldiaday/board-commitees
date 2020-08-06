@@ -5,7 +5,7 @@ yyyy-mm-dd-minutes.md
 Date/Time
 Webconference links
 
-**Attendees**
+## Attendees
 
 Present
 
