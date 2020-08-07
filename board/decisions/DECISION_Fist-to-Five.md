@@ -31,18 +31,18 @@ We can use the following guide both in-person and on Slack/Discord:
 
 | Emoji  | Description |
 | ------------- | ------------- |
-|  ![[consensus_5.png]] | **Strong consensus.** I support the proposal and am willing to be one of the leaders.   |
-|  ![[consensus_4.png]] | **Consensus.** I support the proposal and will help implement it. |
-| ![[consensus_3.png]] | **Cautious consensus.** I’m not in total agreement but am willing to go forward without further discussion.  |
-| ![[consensus_2.png]] | **No consensus.** I still would like to discuss some minor issues.  |
-| ![[consensus_1.png]]  | **No consensus.** I still need to discuss certain issues and suggest changes to be made.  |
-| ![[consensus_0.png]] | **No consensus.** I have a fundamental disagreement with the core of the proposal.  |
-| ![[consensus_abstain.png]] | **Stand aside.** I will not help implement this proposal but don’t want to stop the group. (This could be due to disagreement or lack of time or energy.)  |
+|  ![[fist-to-five/consensus_5.png]] | **Strong consensus.** I support the proposal and am willing to be one of the leaders.   |
+|  ![[fist-to-five/consensus_4.png]] | **Consensus.** I support the proposal and will help implement it. |
+| ![[fist-to-five/consensus_3.png]] | **Cautious consensus.** I’m not in total agreement but am willing to go forward without further discussion.  |
+| ![[fist-to-five/consensus_2.png]] | **No consensus.** I still would like to discuss some minor issues.  |
+| ![[fist-to-five/consensus_1.png]] | **No consensus.** I still need to discuss certain issues and suggest changes to be made.  |
+| ![[fist-to-five/consensus_0.png]] | **No consensus.** I have a fundamental disagreement with the core of the proposal.  |
+| ![[fist-to-five/consensus_abstain.png]] | **Stand aside.** I will not help implement this proposal but don’t want to stop the group. (This could be due to disagreement or lack of time or energy.)  |
 
 
-As explained in [[https://nonprofitgp.files.wordpress.com/2016/05/h03-2016-05-oah-fist-to-five-consensus-building.pdf|Fist to Five Consensus Building Process (PDF)]]:
+As explained in [https://nonprofitgp.files.wordpress.com/2016/05/h03-2016-05-oah-fist-to-five-consensus-building.pdf](Fist to Five Consensus Building Process (PDF)):
 
-	At any point after a decision proposal has been made, you can assess the group's current position by calling for a show/statement of "Fist to Five." 
+At any point after a decision proposal has been made, you can assess the group's current position by calling for a show/statement of "Fist to Five." 
 
 Here is how to read the responses:
 - **4, 5** - Responses of "four" or "five" mean consensus has been achieved and the proposal can be considered "approved." The group can now move forward to the implementation of the proposal and/or to the next issue or topic. Ideally, "approval" is achieved when all responses are at least "three" and mostly "four" and "five."
@@ -80,9 +80,9 @@ Vote by emoji
 ```
 
 ## Useful Resources
-- [[https://www.seedsforchange.org.uk/shortconsensus|Seeds for Change - Consensus Decision Making: A Short Guide]]
+- [https://www.seedsforchange.org.uk/shortconsensus](Seeds for Change - Consensus Decision Making: A Short Guide)
 - *Emergent Strategy* (pp 232-233) by Adrienne Maree Brown
-- [[https://nonprofitgp.files.wordpress.com/2016/05/h03-2016-05-oah-fist-to-five-consensus-building.pdf|Fist to Five Consensus Building Process]]
+- [https://nonprofitgp.files.wordpress.com/2016/05/h03-2016-05-oah-fist-to-five-consensus-building.pdf](Fist to Five Consensus Building Process)
 
 
 ## Proposal History
@@ -95,7 +95,7 @@ Vote by emoji
 	- DECISIONS: 
 		- Note any changes
 - 2020-04-15: 
-	- Slack poll results ([[https://worldiaday.slack.com/archives/GNQ05P9HB/p1586042754008500|link]])
+	- Slack poll results ([https://worldiaday.slack.com/archives/GNQ05P9HB/p1586042754008500](link))
 		- 5: Grace, Celeste, Krispian (3)
 		- 4: Andrew (1)
 		- Absent: Amy, Anita
@@ -105,4 +105,4 @@ Vote by emoji
 	- Grace shared proposal on Slack
 
 
-Original proposal posted on [[https://docs.google.com/document/d/1KUGw6ItPV4F3s_MJ6uAIqsrpUVhOqfOkS8ZLEIHu5_4/edit?usp=sharing|Google Doc (Comment only)]]
+Original proposal posted on [https://docs.google.com/document/d/1KUGw6ItPV4F3s_MJ6uAIqsrpUVhOqfOkS8ZLEIHu5_4/edit?usp=sharing] (Google Doc (Comment only))
