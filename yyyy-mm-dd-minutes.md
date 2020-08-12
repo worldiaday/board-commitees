@@ -1,17 +1,22 @@
-yyyy-mm-dd-minutes.md
-
 # YYYY-MM-DD Meeting minutes
 
-Date/Time
-Webconference links
+**Date/Time**
+
+**Webconference links**
 
 ## Attendees
 
-Present
+**Present**
 
-Absent
+**Absent**
 
 ## Agenda
-1. 
+- 
 
 
+## Minutes
+
+### Agenda Topic 1
+### Old business
+### New business
+### Other questions, concerns, questions
