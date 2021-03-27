@@ -32,7 +32,7 @@ Oct 22, 24 | [Minutes](https://docs.google.com/document/d/1a_8dRDSgEQtnr7TjXkdVA
 Oct 8, 10 | [Minutes](https://docs.google.com/document/d/1HYPlOuYcDcH8OY9YI5J5j5u0Hdv8BIfHXLtwmTFdYl0/edit?usp=sharing)
 Sep 24, 26 | [Minutes](https://docs.google.com/document/d/1gTFkCOmP3IGOGbcjMe8g1p8oXqsmano7SiB_73e0c2c/edit?usp=sharing)
 Sep 10, 12 | [Minutes](https://docs.google.com/document/d/1-fo-YHlRoh3j0vdkGBpzc9lx0wU_vusZU_vXOrnU4OQ/edit?usp=sharing)
-Aug 27, 29] | [Minutes](https://docs.google.com/document/d/12i3iu3DVUa9Sb9uhbxGu6Oq6ty5o79_sS7guje-mzyw/edit?usp=sharing)
+Aug 27, 29 | [Minutes](https://docs.google.com/document/d/12i3iu3DVUa9Sb9uhbxGu6Oq6ty5o79_sS7guje-mzyw/edit?usp=sharing)
 Aug 13, 15 | [Minutes](https://docs.google.com/document/d/1n_iAHlDAxTlhaO3kAgIDHylvaRXgYTWZbSF9xe3f5_s/edit?usp=sharing)
 Aug 5 | [Minutes](https://docs.google.com/document/d/1_r3AumpWvxIFGiawg43lYCPzVxL_yglkVUPiiOAWlmE/edit?usp=sharing)
 Jul 22 | [Minutes](https://docs.google.com/document/d/1deOWXJdNzW_Bj0YDaK77TyPukWDXUDAZW_D-n9VA1WE/edit?usp=sharing)
