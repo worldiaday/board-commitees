@@ -13,6 +13,7 @@ YYYY-MM-DD-DD Meeting minutes where DD-DD refer to the days met
 
 Date | Minutes
 ------------ | -------------
+Apr 8, 10 | [Minutes](https://docs.google.com/document/d/18TkgNEJxkcJIDbp_2NykU9TS5alLVAWq0lf4qt2_gBo/edit?usp=sharing)
 Mar 23, 27 | [Minutes](https://docs.google.com/document/d/1x_fGXDsHN3VapJUb79rYct4CzdDnaC2rF33NESs4iwU/edit?usp=sharing)
 Mar 11, 13 |[Minutes](https://docs.google.com/document/d/16EXzs6lZZpYBasmpfBh52sJemlPll5RyN3KJZcyiT8Q/edit?usp=sharing)
 Feb 25 | [Agenda](https://docs.google.com/document/d/1t1_M1_y5PF_djGu7C-fNd-OZ9Vfx7BJUHHKGdLoyyVw/edit?usp=sharing)
