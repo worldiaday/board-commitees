@@ -13,7 +13,11 @@ Create an `issue` to create proposals.
 - Use comments and meetings to host discussions. 
 - Update the issue description 
 
+> Issues may follow this [Google Doc template](https://docs.google.com/document/d/18V5Gs_SjdBmcHK9sQqCfX4d-JtiQkD04R5ZJagi7dKk/edit?usp=sharing)
+
 An issue can tagged, associated to a milestone, linked to other issues (dependencies), attributed to a project (committee). 
+
+
 
 ### Projects
 Projects will be used to indicate a roadmap for committees, if applicable. 
