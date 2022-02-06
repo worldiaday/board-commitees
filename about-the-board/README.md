@@ -2,13 +2,11 @@
 
 World IA Day's board of directors is elected by the community organizers. These volunteers play a strategic role in determining the mission and direction of World IA Day, ensuring that the organization continues to operate in support of its mission and driving principles.
 
-World IA Day the organization is a nonprofit volunteer organization with a board of directors that are the ultimate responsible body of the organization. Board members fulfill different roles and functions as needed.&#x20;
-
-
+World IA Day the organization is a nonprofit volunteer organization with a board of directors that are the ultimate responsible body of the organization. Board members fulfill different roles and functions as needed.
 
 ## Board Responsibilities
 
-As the leadership body of the organization and to satisfy its fiduciary duties, the board is responsible for:&#x20;
+As the leadership body of the organization and to satisfy its fiduciary duties, the board is responsible for:
 
 * determining the mission and purposes of the organization
 * strategic and organizational planning
@@ -18,35 +16,20 @@ As the leadership body of the organization and to satisfy its fiduciary duties, 
 * enhancing World IA Day's public reputation
 * assessing its own performance as the governing body of World IA Day, Inc
 
-| Name              | Role                                         | Related Committees and Projects                          |
-| ----------------- | -------------------------------------------- | -------------------------------------------------------- |
-| Grace Lau         | Co-President                                 | Governance                                               |
-| Andrea Rosenbusch | Co-President                                 | <p>Content Collection</p><p>Governance</p><p>Website</p> |
-| Asha Singh        | <p>Director, Development</p><p>Treasurer</p> | Finance & Development                                    |
-| Anita Cheng       | Director, Operations                         | <p>Content</p><p>Safety and Conduct</p>                  |
+## News and Updates
 
-| Name                | Role                           | Related Committees and Projects                                             |
-| ------------------- | ------------------------------ | --------------------------------------------------------------------------- |
-| Andrew Jung         | Director, Community and Events | <p>Education</p><p>Website</p><p>WIAD22 Planning Committee</p>              |
-| Krispian Emert      | Co-Director, Education         | <p>Mentorships</p><p>Scholarships</p>                                       |
-| Rupa Misra          | Co-Director, Education         | <p>Finance &#x26; Development</p><p>Mentorship</p>                          |
-| Sam Ashlee          | Director, Accessibility        | Community & Events                                                          |
-| Wendyl Chan         | Director, Social Media         | <ul><li>Community &#x26; Events</li><li>WIAD22 Planning Committee</li></ul> |
-| Effie Sharon Sinena | Global Executive Producer      | WIAD22 Planning Committee                                                   |
+{% content-ref url="meeting-minutes.md" %}
+[meeting-minutes.md](meeting-minutes.md)
+{% endcontent-ref %}
 
-## Regional Directors
+## Join the Board of Directors
 
-| Name                  | Role                                    | Related Committees and Projects                                       |
-| --------------------- | --------------------------------------- | --------------------------------------------------------------------- |
-| Ahmad M Alhuwwari     | Regional Director, Middle East & Africa |                                                                       |
-| Alysson Franklin      | Regional Director, Latin America        | Community & Events                                                    |
-| Ghada Kandil          | Regional Director, Middle East & Africa | <p>Content Collection</p><p>Education</p><p>Website</p>               |
-| Luis Alveart Guerrero | Regional Director, Latin America        | <p>State of IA Survey</p><p>Community &#x26; Events</p>               |
-| Joy Hong              | Regional Director, Asia-Pacific         |                                                                       |
-| Mark Wolfe            | Regional Director, North America        | Community & Events                                                    |
-| Paolo Montevecchi     | Regional Director, Europe               | <p>Community &#x26; Events</p><p>State of IA Survey</p><p>Website</p> |
+Members of the WIAD Board are nominated from the community. The board defines the strategic vision and establishes the roadmap with local organizers, committee leads, and the community-at-large.
+
+{% content-ref url="board-nominations.md" %}
+[board-nominations.md](board-nominations.md)
+{% endcontent-ref %}
 
 {% content-ref url="past-board-of-directors/" %}
 [past-board-of-directors](past-board-of-directors/)
 {% endcontent-ref %}
-

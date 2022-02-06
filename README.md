@@ -15,7 +15,7 @@ World IA Day is the one day a year the community gets together for a global conf
 [history.md](history.md)
 {% endcontent-ref %}
 
-World Information Architecture Association (legal name World IA Day, Inc.; WIAA) is a 501(c)(3) non-profit organization dedicated to growing awareness of the discipline of information architecture while promoting social responsibility among practitioners.&#x20;
+World Information Architecture Association (legal name World IA Day, Inc.; WIAA) is a 501(c)(3) non-profit organization dedicated to growing awareness of the discipline of information architecture while promoting social responsibility among practitioners.
 
 ## Our Mission
 
@@ -36,13 +36,25 @@ The World Information Architecture Association invites open conversations about 
 
 [Read, translate, and contribute on GitHub](https://github.com/worldiaday/definition)
 
-## It takes&#x20;
+## The people behind WIAA
 
-World IA Association The volunteers behind World IA Day include the Global Board of Directors, project committees, and all the local organizers and volunteers who bring the community together.
+The volunteers behind World IA Association include the Global Board of Directors, project committees, and all the local organizers and volunteers who bring the community together.
 
-## Purpose
+{% content-ref url="about-the-board/" %}
+[about-the-board](about-the-board/)
+{% endcontent-ref %}
 
-This guidebook outlines the Bylaws and the roles and responsibilities for committees. This also defines ways for anyone to get involved with World IA Day at various levels.
+{% content-ref url="about-regions-and-local-affiliates/" %}
+[about-regions-and-local-affiliates](about-regions-and-local-affiliates/)
+{% endcontent-ref %}
+
+{% content-ref url="community-advisors.md" %}
+[community-advisors.md](community-advisors.md)
+{% endcontent-ref %}
+
+{% content-ref url="committees-1.md" %}
+[committees-1.md](committees-1.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 **Have questions or concerns?**
@@ -50,35 +62,3 @@ This guidebook outlines the Bylaws and the roles and responsibilities for commit
 * Email: [info@worldiaday.org](mailto:info@worldiaday.org)
 * Twitter: [@worldiaday](https://twitter.com/WorldIADay)
 {% endhint %}
-
-
-
-## Join the Board of Directors
-
-Members of the WIAD Board are nominated from the community. The board defines the strategic vision and establishes the roadmap with local organizers, committee leads, and the community-at-large.
-
-{% content-ref url="about-the-board/board-nominations.md" %}
-[board-nominations.md](about-the-board/board-nominations.md)
-{% endcontent-ref %}
-
-## Be a regional director or local affiliate
-
-If you're part of a local meetup, consider becoming a local affiliate to continue the conversation locally. This won't require you to lose your identity as a local meetup. If you organized a local World IA Day event, then you're considered an affiliate.
-
-[Learn about the regional director role.](about-regions-and-local-affiliates/regional-director-responsibilities.md)
-
-[Volunteer to be a regional director](about-regions-and-local-affiliates/regional-director-responsibilities.md#i-want-to-nominate-myself-or-someone-i-know)
-
-{% content-ref url="about-regions-and-local-affiliates/" %}
-[about-regions-and-local-affiliates](about-regions-and-local-affiliates/)
-{% endcontent-ref %}
-
-## Find a committee or task force
-
-Each committee has a specific purpose. Each committee may have special task force groups to implement the work of the committee.
-
-[<mark style="color:blue;">**Join as a volunteer**</mark>](https://forms.worldiaday.org/volunteer-signup)<mark style="color:blue;">****</mark>
-
-{% content-ref url="committees-1.md" %}
-[committees-1.md](committees-1.md)
-{% endcontent-ref %}
