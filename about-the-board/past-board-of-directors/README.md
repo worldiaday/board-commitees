@@ -1,4 +1,4 @@
-# Board of Directors Alumni
+# Board Directory
 
 ##
 

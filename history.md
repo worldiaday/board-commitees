@@ -1,3 +1,9 @@
+---
+description: >-
+  Started in 2012, World IA Day continues to be the flagship global event in the
+  IA community.
+---
+
 # History
 
 ### Born in 2012 as part of the IA Institute

@@ -26,10 +26,10 @@ We are looking for people who have the following characteristics:&#x20;
 
 ### Join the executive board
 
-Members of the WIAD Board are nominated from the community. The board defines the strategic vision and establishes the roadmap with local organizers, committee leads and the community-at-large.
+Members of the WIAD Board are nominated from the community. The board defines the strategic vision and establishes the roadmap with local organizers, committee leads, and the community-at-large.
 
 * President
-* Global Executive Producer
+* Global Executive Producer, 2023
 * Director of Publications
 * Director of Events
 * Director of Social Media

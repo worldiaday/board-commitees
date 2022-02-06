@@ -4,7 +4,7 @@ description: >-
   IA Day?
 ---
 
-# World IA Day Committees
+# Committees
 
 Besides getting involved at the local level and organizing World IA Day events, you can also get involved by showing initiative and leadership at one of the various World IA Day committees
 

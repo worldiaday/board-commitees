@@ -25,10 +25,10 @@ Refer to the Code of Conduct published at [https://github.com/worldiaday/codeofc
 
 Everyone on the board
 
-| Role   | Name             |
-| ------ | ---------------- |
-| Lead   | Grace Lau        |
-| Member | Celeste Espinoza |
-| Member | Anita Cheng      |
-| Member | Andrew Jung      |
+| Role   | Name        |
+| ------ | ----------- |
+| Lead   |             |
+| Member |             |
+| Member | Anita Cheng |
+| Member | Andrew Jung |
 
