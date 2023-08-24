@@ -8,6 +8,7 @@
   * [Board Nominations](about-the-board/board-nominations.md)
   * [Board Expectations](about-the-board/board-responsibilities.md)
   * [Board Directory](about-the-board/past-board-of-directors/README.md)
+    * [Board History](about-the-board/past-board-of-directors/board-history.md)
     * [2021-2022 Board](about-the-board/past-board-of-directors/2021-2022-board-of-directors.md)
     * [2020-2021 Board](about-the-board/past-board-of-directors/2020-2021-board.md)
     * [2019-2020 Board](about-the-board/past-board-of-directors/2019-2020-board.md)
