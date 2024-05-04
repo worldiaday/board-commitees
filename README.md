@@ -18,14 +18,6 @@ layout:
 
 # Who we are
 
-## What is World IA Day?
-
-World IA Day is the one day a year the community gets together for a global conference, curated and organized by volunteers around the world, to host and encourage conversations about information architecture.
-
-{% content-ref url="history.md" %}
-[history.md](history.md)
-{% endcontent-ref %}
-
 World Information Architecture Association (legal name World IA Day, Inc.; WIAA) is a 501(c)(3) non-profit organization dedicated to growing awareness of the discipline of information architecture while promoting social responsibility among practitioners.
 
 ## Our Mission
@@ -51,21 +43,7 @@ The World Information Architecture Association invites open conversations about 
 
 The volunteers behind World IA Association include the Global Board of Directors, project committees, and all the local organizers and volunteers who bring the community together.
 
-{% content-ref url="about-the-board/" %}
-[about-the-board](about-the-board/)
-{% endcontent-ref %}
-
-{% content-ref url="about-regions-and-local-affiliates/" %}
-[about-regions-and-local-affiliates](about-regions-and-local-affiliates/)
-{% endcontent-ref %}
-
-{% content-ref url="community-advisors.md" %}
-[community-advisors.md](community-advisors.md)
-{% endcontent-ref %}
-
-{% content-ref url="committees-1.md" %}
-[committees-1.md](committees-1.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Global Board of Directors</td><td></td><td><a href="about-the-board/">about-the-board</a></td></tr><tr><td></td><td>Regional Directors &#x26; Local Affiliates</td><td></td><td><a href="about-regions-and-local-affiliates/">about-regions-and-local-affiliates</a></td></tr><tr><td></td><td>Community Advisors</td><td></td><td><a href="community-advisors.md">community-advisors.md</a></td></tr></tbody></table>
 
 {% hint style="info" %}
 **Have questions or concerns?**
