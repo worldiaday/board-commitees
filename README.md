@@ -1,7 +1,7 @@
 ---
 description: >-
   The World Information Architecture Association (WIAA) hosts World IA Day and
-  supports global initiatives to spread the information architecture practice.
+  supports global initiatives to spread the Information Architecture practice.
   WIAA brings together local communities and run
 layout:
   title:
