@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Who we are](README.md)
+* [About WIAA](README.md)
 * [History](history.md)
 * [Global Board of Directors](about-the-board/README.md)
   * [Meeting Minutes](about-the-board/meeting-minutes.md)
